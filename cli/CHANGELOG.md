@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.50.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.49.0...tambo-v0.50.0) (2026-01-28)
+
+
+### Features
+
+* **cli:** add non-interactive mode support (Phase 1) ([#1943](https://github.com/tambo-ai/tambo/issues/1943)) ([47548d0](https://github.com/tambo-ai/tambo/commit/47548d02e2cb1429232d12bb93eaee60b6f7b17e))
+* **react-sdk:** implement v1 API Phases 6-7 with code review fixes ([#1954](https://github.com/tambo-ai/tambo/issues/1954)) ([9a7e098](https://github.com/tambo-ai/tambo/commit/9a7e098e0f969ec1512d6705c020dc46f625ac95))
+
+
+### Bug Fixes
+
+* **cli:** install components to tambo/ subdirectory in full-send mode ([#1968](https://github.com/tambo-ai/tambo/issues/1968)) ([c27dc7b](https://github.com/tambo-ai/tambo/commit/c27dc7b42d4a3e2406c8392d8ef4b574f337732d))
+
 ## [0.49.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.48.0...tambo-v0.49.0) (2026-01-27)
 
 
