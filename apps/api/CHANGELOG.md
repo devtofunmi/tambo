@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.132.2](https://github.com/tambo-ai/tambo/compare/api-v0.132.1...api-v0.132.2) (2026-01-28)
+
+
+### Bug Fixes
+
+* **api:** remove inline oneOf schema from component state endpoint ([#1961](https://github.com/tambo-ai/tambo/issues/1961)) ([c79be8e](https://github.com/tambo-ai/tambo/commit/c79be8ec7de12df6ccb0049a95990e05cf4b871f))
+
 ## [0.132.1](https://github.com/tambo-ai/tambo/compare/api-v0.132.0...api-v0.132.1) (2026-01-27)
 
 
